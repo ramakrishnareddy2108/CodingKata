@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jobs", "Jobs", "{75FABBB6-6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKata.MailService", "CodingKata.MailService\CodingKata.MailService.csproj", "{DBFDC7D4-5724-44AB-B670-E49779512F82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKata.Common", "CodingKata.Common\CodingKata.Common.csproj", "{36BC6D73-F709-45DA-8737-999DAE312DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codingkata.Models", "Codingkata.Models\Codingkata.Models.csproj", "{D688102C-B39B-480E-AC50-583DF580D9F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,14 @@ Global
 		{DBFDC7D4-5724-44AB-B670-E49779512F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBFDC7D4-5724-44AB-B670-E49779512F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBFDC7D4-5724-44AB-B670-E49779512F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BC6D73-F709-45DA-8737-999DAE312DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BC6D73-F709-45DA-8737-999DAE312DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BC6D73-F709-45DA-8737-999DAE312DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BC6D73-F709-45DA-8737-999DAE312DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D688102C-B39B-480E-AC50-583DF580D9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D688102C-B39B-480E-AC50-583DF580D9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D688102C-B39B-480E-AC50-583DF580D9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D688102C-B39B-480E-AC50-583DF580D9F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

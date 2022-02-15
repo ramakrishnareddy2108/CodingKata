@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Codingkata.Models\Codingkata.Models.csproj" />
-    <ProjectReference Include="..\CodingKata.Repository\CodingKata.Repository.csproj" />
-  </ItemGroup>
-
 </Project>
