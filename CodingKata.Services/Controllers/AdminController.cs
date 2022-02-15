@@ -8,5 +8,6 @@ namespace CodingKata.Services.Controllers
     [Route("[Admin]")]
     public class AdminController : Controller
     {
+        //State Reports by vaccine, age and gender with date range 
     }
 }

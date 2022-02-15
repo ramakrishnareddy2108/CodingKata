@@ -8,7 +8,7 @@ namespace CodingKata.Repository
         List<VaccineRegister> registrations = new List<VaccineRegister>();
         public async Task<bool> RegisterVaccination(VaccineRegister vaccineRegister)
         {
-            //Data base operation
+            //Data base operation using no sql database 
             registrations.Add(vaccineRegister);
             return true;
         }

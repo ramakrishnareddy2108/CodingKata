@@ -13,6 +13,7 @@ namespace CodingKata.Manager
         }
         public async Task<bool> RegisterVaccination(VaccineRegister vaccineRegister)
         {
+            //Validate Model
             return await _userRepository.RegisterVaccination(vaccineRegister);
         }
     }
