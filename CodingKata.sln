@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKata.Services", "CodingKata.Services\CodingKata.Services.csproj", "{9C97DBC5-5D87-4353-9BC4-2C4EC0A2354E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingKata.Services", "CodingKata.Services\CodingKata.Services.csproj", "{9C97DBC5-5D87-4353-9BC4-2C4EC0A2354E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKata.Manager", "CodingKata.Manager\CodingKata.Manager.csproj", "{AA7EF37B-13DE-4A51-9F06-4D594FE49216}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingKata.Manager", "CodingKata.Manager\CodingKata.Manager.csproj", "{AA7EF37B-13DE-4A51-9F06-4D594FE49216}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKata.Repository", "CodingKata.Repository\CodingKata.Repository.csproj", "{9E96488C-2582-4976-999F-B71834829DE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingKata.Repository", "CodingKata.Repository\CodingKata.Repository.csproj", "{9E96488C-2582-4976-999F-B71834829DE1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jobs", "Jobs", "{75FABBB6-69EE-4FBC-BF6C-BCFCE635541A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKata.MailService", "CodingKata.MailService\CodingKata.MailService.csproj", "{DBFDC7D4-5724-44AB-B670-E49779512F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingKata.MailService", "CodingKata.MailService\CodingKata.MailService.csproj", "{DBFDC7D4-5724-44AB-B670-E49779512F82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKata.Common", "CodingKata.Common\CodingKata.Common.csproj", "{36BC6D73-F709-45DA-8737-999DAE312DF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingKata.Common", "CodingKata.Common\CodingKata.Common.csproj", "{36BC6D73-F709-45DA-8737-999DAE312DF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codingkata.Models", "Codingkata.Models\Codingkata.Models.csproj", "{D688102C-B39B-480E-AC50-583DF580D9F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codingkata.Models", "Codingkata.Models\Codingkata.Models.csproj", "{D688102C-B39B-480E-AC50-583DF580D9F8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F5BFADD0-2058-4828-8CF6-D00A70C3D602}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKata.Manager.Tests", "CodingKata.Repository.Tests\CodingKata.Manager.Tests.csproj", "{73C7386C-FBD8-43BC-BE97-906EA9887B14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingKata.Manager.Tests", "CodingKata.Repository.Tests\CodingKata.Manager.Tests.csproj", "{73C7386C-FBD8-43BC-BE97-906EA9887B14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{1DD55B01-E4CC-4872-9232-6C861D12A8F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
